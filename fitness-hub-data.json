@@ -1,0 +1,131 @@
+{
+  "updatedAt": "2026-06-18T06:51:14.983Z",
+  "state": {
+    "gym": {
+      "exercises": [
+        {
+          "id": "mqj4uqrouw9nqy",
+          "name": "Flachbankdrücken Langhantel",
+          "category": "Brust"
+        },
+        {
+          "id": "mqj4uqrozjgams",
+          "name": "Schulterdrücken Kurzhantel",
+          "category": "Schultern"
+        },
+        {
+          "id": "mqj4uqronhxuto",
+          "name": "Kniebeugen",
+          "category": "Beine"
+        }
+      ],
+      "workouts": [],
+      "sessions": []
+    },
+    "meals": {
+      "categories": [
+        "Frühstück",
+        "Pre-Workout",
+        "Post-Workout",
+        "Abend",
+        "Snack"
+      ],
+      "meals": [
+        {
+          "id": "mqj4uqropm6h33",
+          "name": "Protein Oats",
+          "category": "Frühstück",
+          "suitableFor": "Frühstück / Pre-Workout",
+          "note": "Cleanes High-Carb Meal",
+          "ingredients": [
+            {
+              "id": "mqj4uqroc4lttu",
+              "name": "Haferflocken",
+              "portion": "80 g",
+              "protein": 10,
+              "carbs": 48,
+              "fat": 6
+            },
+            {
+              "id": "mqj4uqrosb7ct0",
+              "name": "Whey",
+              "portion": "30 g",
+              "protein": 24,
+              "carbs": 2,
+              "fat": 1
+            },
+            {
+              "id": "mqj4uqro97xmt5",
+              "name": "Banane",
+              "portion": "1 Stück",
+              "protein": 1,
+              "carbs": 27,
+              "fat": 0
+            }
+          ]
+        },
+        {
+          "id": "mqj4uqroms52ow",
+          "name": "Chicken Rice Bowl",
+          "category": "Post-Workout",
+          "suitableFor": "Post-Workout",
+          "note": "Leicht verdaulich, viel Carbs",
+          "ingredients": [
+            {
+              "id": "mqj4uqroqpui8e",
+              "name": "Reis gekocht",
+              "portion": "300 g",
+              "protein": 8,
+              "carbs": 84,
+              "fat": 1
+            },
+            {
+              "id": "mqj4uqrofnb3xt",
+              "name": "Hähnchenbrust",
+              "portion": "160 g",
+              "protein": 36,
+              "carbs": 0,
+              "fat": 3
+            }
+          ]
+        }
+      ]
+    },
+    "nutrition": {
+      "phase": "cut",
+      "weightLog": [],
+      "phases": {
+        "cut": {
+          "id": "cut",
+          "name": "Cut",
+          "calories": 2300,
+          "meals": 5,
+          "weight": 79.5,
+          "protein": 180,
+          "fat": 60,
+          "goal": "Defizit, Leistung erhalten, Hunger kontrollieren."
+        },
+        "maintenance": {
+          "id": "maintenance",
+          "name": "Maintenance",
+          "calories": 2750,
+          "meals": 5,
+          "weight": 79.5,
+          "protein": 175,
+          "fat": 70,
+          "goal": "Gewicht stabil halten und Performance steigern."
+        },
+        "bulk": {
+          "id": "bulk",
+          "name": "Aufbau",
+          "calories": 3150,
+          "meals": 5,
+          "weight": 79.5,
+          "protein": 175,
+          "fat": 75,
+          "goal": "Kontrollierter Aufbau mit sauberer Carbs-Verteilung."
+        }
+      }
+    }
+  }
+}
