@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T06:54:39.661Z",
+  "updatedAt": "2026-06-18T06:56:01.402Z",
   "state": {
     "gym": {
       "exercises": [
@@ -30,33 +30,7 @@
         "Abend",
         "Snack"
       ],
-      "meals": [
-        {
-          "id": "mqj4uqroms52ow",
-          "name": "Chicken Rice Bowl",
-          "category": "Post-Workout",
-          "suitableFor": "Post-Workout",
-          "note": "Leicht verdaulich, viel Carbs",
-          "ingredients": [
-            {
-              "id": "mqj4uqroqpui8e",
-              "name": "Reis gekocht",
-              "portion": "300 g",
-              "protein": 8,
-              "carbs": 84,
-              "fat": 1
-            },
-            {
-              "id": "mqj4uqrofnb3xt",
-              "name": "Hähnchenbrust",
-              "portion": "160 g",
-              "protein": 36,
-              "carbs": 0,
-              "fat": 3
-            }
-          ]
-        }
-      ]
+      "meals": []
     },
     "nutrition": {
       "phase": "cut",
