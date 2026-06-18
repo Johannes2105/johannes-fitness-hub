@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T06:56:01.402Z",
+  "updatedAt": "2026-06-18T08:20:07.141Z",
   "state": {
     "gym": {
       "exercises": [
@@ -40,7 +40,7 @@
           "id": "cut",
           "name": "Cut",
           "calories": 2300,
-          "meals": 5,
+          "meals": 4,
           "weight": 79.5,
           "protein": 203,
           "fat": 50,
@@ -50,7 +50,7 @@
           "id": "maintenance",
           "name": "Maintenance",
           "calories": 2750,
-          "meals": 5,
+          "meals": 4,
           "weight": 79.5,
           "protein": 175,
           "fat": 70,
@@ -60,7 +60,7 @@
           "id": "bulk",
           "name": "Aufbau",
           "calories": 3150,
-          "meals": 5,
+          "meals": 4,
           "weight": 79.5,
           "protein": 175,
           "fat": 75,
