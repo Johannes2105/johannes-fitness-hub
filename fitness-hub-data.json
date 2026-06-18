@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T06:53:32.948Z",
+  "updatedAt": "2026-06-18T06:54:39.661Z",
   "state": {
     "gym": {
       "exercises": [
@@ -31,39 +31,6 @@
         "Snack"
       ],
       "meals": [
-        {
-          "id": "mqj4uqropm6h33",
-          "name": "Protein Oats",
-          "category": "Frühstück",
-          "suitableFor": "Frühstück / Pre-Workout",
-          "note": "Cleanes High-Carb Meal",
-          "ingredients": [
-            {
-              "id": "mqj4uqroc4lttu",
-              "name": "Haferflocken",
-              "portion": "80 g",
-              "protein": 10,
-              "carbs": 48,
-              "fat": 6
-            },
-            {
-              "id": "mqj4uqrosb7ct0",
-              "name": "Whey",
-              "portion": "30 g",
-              "protein": 24,
-              "carbs": 2,
-              "fat": 1
-            },
-            {
-              "id": "mqj4uqro97xmt5",
-              "name": "Banane",
-              "portion": "1 Stück",
-              "protein": 1,
-              "carbs": 27,
-              "fat": 0
-            }
-          ]
-        },
         {
           "id": "mqj4uqroms52ow",
           "name": "Chicken Rice Bowl",
