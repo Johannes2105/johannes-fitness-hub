@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T06:51:14.983Z",
+  "updatedAt": "2026-06-18T06:52:13.809Z",
   "state": {
     "gym": {
       "exercises": [
@@ -101,8 +101,8 @@
           "calories": 2300,
           "meals": 5,
           "weight": 79.5,
-          "protein": 180,
-          "fat": 60,
+          "protein": 203,
+          "fat": 50,
           "goal": "Defizit, Leistung erhalten, Hunger kontrollieren."
         },
         "maintenance": {
